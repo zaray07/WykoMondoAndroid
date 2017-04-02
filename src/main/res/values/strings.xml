@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WykoMondo</string>
+    <string name="startMeasurementButton">Rozpocznij pomiar</string>
+    <string name="startCounterButton">Start</string>
+    <string name="stopCounterButton">Stop</string>
+    <string name="pauseCounterButton">Pause</string>
+    <string name="currentTime">Aktualny czas przejazdu</string>
+    <string name="currentSpeed">Aktualna prędkość</string>
+    <string name="maxSpeedText">Prędkość Maksymalna</string>
+    <string name="totalDistance">Przejechane</string>
+    <string name="buttonBackToMain">Wróć do menu</string>
+    <string name="buttonShare">Udostępnij</string>
+    <string name="statistic">Statystyki przejazdu</string>
+    <string name="result">Przejechałeś %1$.2fkm w czasie %2$s. Twoja średnia prędkość przejazdu to %3$.2fm/s , a najszybciej jechałeś z prędkością %4$.2fm/s.</string>
+</resources>
